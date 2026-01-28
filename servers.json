@@ -1,0 +1,54 @@
+[
+  {
+    "online": "865",
+    "maxonline": "1300",
+    "color": "FF0000",
+    "x2": "false",
+    "key": "1424",
+    "name": "BLACK RUSSIA | 76",
+    "firstname": "76",
+    "secondname": "",
+    "url": "red.blackrussia.online",
+    "ip": "45.39.210.198",
+    "port": "7776"
+  },
+  {
+    "online": "626",
+    "maxonline": "1300",
+    "color": "00FF00",
+    "x2": "false",
+    "key": "1424",
+    "name": "BLACK RUSSIA | 78",
+    "firstname": "78",
+    "secondname": "",
+    "url": "green.blackrussia.online",
+    "ip": "45.39.210.198",
+    "port": "7778"
+  },
+  {
+    "online": "589",
+    "maxonline": "1300",
+    "color": "2D57EC",
+    "x2": "false",
+    "key": "1424",
+    "name": "BLACK RUSSIA | 79",
+    "firstname": "79",
+    "secondname": "",
+    "url": "blue.blackrussia.online",
+    "ip": "45.39.210.198",
+    "port": "7779"
+  },
+  {
+    "online": "596",
+    "maxonline": "1300",
+    "color": "FFFF00",
+    "x2": "false",
+    "key": "1424",
+    "name": "BLACK RUSSIA | 80",
+    "firstname": "80",
+    "secondname": "",
+    "url": "yellow.blackrussia.online",
+    "ip": "45.39.210.198",
+    "port": "7780"
+  }
+]
