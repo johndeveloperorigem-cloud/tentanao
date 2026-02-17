@@ -5,12 +5,12 @@
     "color": "878787",
     "x2": "false",
     "key": "1424",
-    "name": "SERVIDOR TESTES | ACESSO DEV",
+    "name": "SERVIDOR 1",
     "firstname": "76",
     "secondname": "",
     "url": "45.39.210.150",
     "ip": "45.39.210.150",
-    "port": "7778"
+    "port": "7779"
   },
   {
     "online": "386",
@@ -18,11 +18,11 @@
     "color": "878787",
     "x2": "false",
     "key": "1424",
-    "name": "SERVIDOR 1 | ",
-    "firstname": "76",
+    "name": "SERVIDOR TESTES | ACESSO DEV",
+    "firstname": "SERVIDOR TESTES | ACESSO DEV",
     "secondname": "",
     "url": "45.39.210.150",
     "ip": "45.39.210.150",
-    "port": "7779"
+    "port": "7778"
   }
 ]
