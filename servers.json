@@ -8,9 +8,9 @@
     "name": "SERVIDOR 1",
     "firstname": "76",
     "secondname": "",
-    "url": "45.39.210.150",
-    "ip": "45.39.210.150",
-    "port": "7779"
+    "url": "198.50.242.103",
+    "ip": "198.50.242.103",
+    "port": "7777"
   },
   {
     "online": "386",
@@ -21,8 +21,8 @@
     "name": "SERVIDOR TESTES | ACESSO DEV",
     "firstname": "SERVIDOR TESTES | ACESSO DEV",
     "secondname": "",
-    "url": "45.39.210.150",
-    "ip": "45.39.210.150",
+    "url": "198.50.242.103",
+    "ip": "198.50.242.103",
     "port": "7778"
   }
 ]
